@@ -57,6 +57,9 @@ The program first queries the [Google CT log server list](https://www.gstatic.co
 
 Each raw certificate is extracted (see the fields below) and stored in a raw-based storage. CSV and Parquet files formats are currently supported.
 
+### Automatic restarting of download
+In case the download is interrupted or stopped by the user, Woodstock restarts at the offset, just after the last recorded chunk.
+
 ### Extracted fields
 
 Here is the list of certificate fields that are output by Woodstock.
