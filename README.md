@@ -106,4 +106,4 @@ This program is distributed under the Unlicense (read LICENSE.txt)
 
 ### Acknowledgments
 
-Thanks to [@jojolebarjos](https://github.com/jojolebarjos) and [@nsanglar](https://github.com/nsanglar) for the ideas and code review.
+Thanks to [@jojolebarjos](https://github.com/jojolebarjos) and [@nsanglar](https://github.com/nsanglar) for the ideas and code review. Thanks to https://github.com/CaliDog/Axeman for the datastructure approach idea.
