@@ -98,13 +98,20 @@ Depending on the output format, the extracted record size varies as follow:
     CSV file : approx. 1.6 KB / extracted record
 ### License
 
-This program is distributed under the Unlicense (read LICENSE.txt)
+This program is distributed under the MIT License (read LICENSE.txt)
 
 > ```
-> Anyone is free to copy, modify, publish, use, compile, sell, or
-> distribute this software, either in source code form or as a compiled
-> binary, for any purpose, commercial or non-commercial, and by any
-> means.
+>  ...
+> Permission is hereby granted, free of charge, to any person obtaining a copy
+> of this software and associated documentation files (the "Software"), to deal
+> in the Software without restriction, including without limitation the rights
+> to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+> copies of the Software, and to permit persons to whom the Software is
+> furnished to do so, subject to the following conditions:
+> 
+> The above copyright notice and this permission notice shall be included in all
+> copies or substantial portions of the Software.
+>  ...
 > ```
 
 ### Acknowledgments
