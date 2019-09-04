@@ -47,6 +47,7 @@ optional arguments:
   -h, --help        show this help message and exit
   -o OUTPUT_DIR     The path of the output directory (should end with a /)
   -f OUTPUT_FORMAT  The format of the output files
+  -v VERBOSE        The verbosity of the output (can be True or False)
 
 ```
 
