@@ -96,9 +96,9 @@ Depending on the output format, the extracted record size varies as follow:
 
     Parquet file : approx. 0.625 KB / extracted record
     CSV file : approx. 1.6 KB / extracted record
-### License
+### MIT License
 
-This program is distributed under the MIT License (read LICENSE.txt)
+This program is distributed under the MIT License (see LICENSE)
 
 > ```
 >  ...
