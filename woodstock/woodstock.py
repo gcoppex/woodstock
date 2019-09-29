@@ -528,8 +528,7 @@ def main():
             args.verbose = False
 
 
-    server_url_list = ["ct.cloudflare.com/logs/nimbus2023/"]
-    #server_url_list = get_server_url_list()
+    server_url_list = get_server_url_list()
     print("Parsing the list of server terminated (%d log servers found)" % \
             len(server_url_list))
     loop = asyncio.get_event_loop()
